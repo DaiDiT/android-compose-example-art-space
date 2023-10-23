@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="charmander_label">Charmander</string>
+    <string name="charmander_desc">Sejak lahir, api menyala di ekor Charmander. Hidupnya berakhir saat api tersebut padam.</string>
+    <string name="squirtle_label">Squirtle</string>
+    <string name="squirtle_desc">Tempurung Squirtle tidak hanya berperan untuk melindungi diri. Bentuk bundar dan lekukan di permukaannya mengurangi resistansi air, sehingga Pokémon ini dapat berenang dengan kecepatan tinggi.</string>
+    <string name="bulbasaur_label">Bulbasaur</string>
+    <string name="bulbasaur_desc">Bulbasaur dapat ditemukan tidur siang di bawah sinar matahari. Dengan mandi banyak sinar matahari, benih di punggungnya tumbuh makin besar.</string>
+    <string name="pikachu_label">Pikachu</string>
+    <string name="pikachu_desc">Pikachu memiliki kantong penampung listrik di kedua pipinya. Ketika marah, Pokémon ini mengeluarkan seluruh listrik yang telah terkumpul.</string>
+    <string name="alolan_ninetales_label">Alolan Ninetales</string>
+    <string name="alolan_ninetales_desc">Ninetales menuntun orang yang tersesat di gunung bersalju hingga ke dasar gunung, tapi tidak akan mengampuni penjahat lingkungan yang merusak hutan.</string>
+    <string name="gengar_label">Gengar</string>
+    <string name="gengar_desc">Gengar adalah Pokémon yang merasuki bayangan dan mengincar nyawa. Saat bayanganmu tertawa sendiri, pegang jimat penyuci sesegera mungkin.</string>
+    <string name="previous">Sebelumnya</string>
+    <string name="next">Selanjutnya</string>
+</resources>
